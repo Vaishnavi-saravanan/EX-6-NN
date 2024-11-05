@@ -62,8 +62,8 @@ print(classification_rep)
 
 
 <H3>Output:</H3>
-![Screenshot 2024-11-05 230615](https://github.com/user-attachments/assets/595483f3-e0f4-43cc-bc2e-201f4bdd6b5f)
 
+![Screenshot 2024-11-05 230615](https://github.com/user-attachments/assets/595483f3-e0f4-43cc-bc2e-201f4bdd6b5f)
 ![Screenshot 2024-11-05 230621](https://github.com/user-attachments/assets/44d16e04-07d5-4ac9-a551-05f3be90f080)
 
 
